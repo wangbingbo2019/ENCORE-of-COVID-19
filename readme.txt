@@ -1,6 +1,6 @@
 Supplementary material of "The Peripheral and Core regions of Virus-Host Network of COVID-19":
 
-S1 Table. Human interactome. It contains 16,461 proteins and 239,305 physical interactions.
+S1 Table. Human interactome. It contains 16,461 proteins and 239,305 physical interactions. This network is provided by 'Menche J, Sharma A, Kitsak M, et al. Disease networks. Uncovering disease-disease relationships through the incomplete interactome. Science 2015; 347.'
 
 S2 Table. Disease biology of core. Disease module. The peripheral proteins and core proteins of COVID-19, SARS and H1N1, and the 70 C3 disease modules. 
 
